@@ -1,0 +1,6 @@
+ls
+mkdir bbb
+cd bbb
+ls
+cd ..
+echo "ended reading file"
